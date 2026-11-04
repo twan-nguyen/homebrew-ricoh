@@ -1,6 +1,6 @@
 cask "ricoh-hub" do
-  version "0.1.0"
-  sha256 "0e9e7ec110c6eea17188bad116d184531076721a52f71db8ba4fdda5c4a4daa0"
+  version "0.2.0"
+  sha256 "145b0a9ac743acfdb878fc7e100a28a04a74162805bffdc37e5f15b1150a7c79"
 
   url "https://github.com/twan-nguyen/ricoh-hub/releases/download/v#{version}/Ricoh-Hub-#{version}.zip"
   name "Ricoh Hub"
